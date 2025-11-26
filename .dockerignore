@@ -1,14 +1,7 @@
-# Git files
 .git
 .gitignore
-
-# Local dependencies
 node_modules
-
-# Local n8n data (SQLite, workflow files)
 n8n-data
-
-# Local config files
 .env
 docker-compose.yml
 README.md
